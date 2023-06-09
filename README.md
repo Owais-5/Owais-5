@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Owais.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Artificial Intelligence. 
-- 💞️ I’m looking to collaborate on DSA,Database and AI based projects. 
+- 💞️ I’m looking forward to collaborate on DSA, and AI based projects. 
 - 📫 To reach me you can mail me on owais551999@gmail.com .
 
 <!---
